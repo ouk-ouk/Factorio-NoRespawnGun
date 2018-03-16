@@ -1,0 +1,11 @@
+{
+    "name": "NoRespawnGun",
+    "version": "1.16.0",
+    "title": "No Respawn Gun",
+    "author": "<NO_NAME>",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16"],
+    "description": "After death, player respawns without any inventory."
+}
