@@ -1,11 +1,11 @@
 {
     "name": "NoRespawnGun",
-    "version": "3.100.0",
+    "version": "3.100.1",
     "title": "No Respawn Gun",
     "author": "<NO_NAME>",
     "contact": "",
     "homepage": "",
     "factorio_version": "1.0",
-    "dependencies": ["base >= 1.0"],
-    "description": "After death, player respawns without any inventory. (Possible to configure to remove only weapons.)"
+    "dependencies": ["base >= 1.0", "!HardcoreStart"],
+    "description": "After death, player respawns without any inventory. (Possible to configure to remove only weapons.)\n\nDEPRECATED: The mod \"Hardcore Start\" took over the features of this mod."
 }
